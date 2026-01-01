@@ -1,6 +1,8 @@
 ## FableFlow（寓言流）
-- 一个基于多Agent协作的长篇故事创意与写作系统
+- 一个基于多 Agent 协作的长篇故事创意与写作系统
 - 没什么技术含量，只是用于展示无代码多 AGENT 的实际应用场景
+
+> <img width="2880" height="1773" alt="01" src="https://github.com/user-attachments/assets/7378a045-de06-4c4a-9589-4c9eccc06e42" />
 
 ## 项目简介
 
