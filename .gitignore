@@ -1,4 +1,7 @@
-/.trae
+dummy
+__pycache__
+
+/.roo/rules
 
 /01_World/*.md
 /02_Memory/*.md
