@@ -1,8 +1,7 @@
 dummy
 __pycache__
 
-/.roo
-/.roomodes
+/.roo/rules
 
 /01_World/*.md
 /02_Memory/*.md
