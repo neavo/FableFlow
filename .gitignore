@@ -1,10 +1,8 @@
 dummy
 __pycache__
 
-/.roo/rules
-
-/01_World/*.md
-/02_Memory/*.md
-/03_Story/*.md
+01_World/*.md
+02_Memory/*.md
+03_Story/*.md
 
 !01_World/初始创意.md
