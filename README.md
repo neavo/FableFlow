@@ -101,11 +101,11 @@ FableFlow/
 - `01_World/初始创意.md` 为可选文件，不提供该文件也可直接开始创作
 - 受限于纯 AGENT 架构，任务的触发和执行可能不够稳定，请观察各步骤的输出并根据需要重试
 - Token 消耗量较大，使用高成本模型时请注意控制，**非思考模式** 可显著节约费用
-  - `DeepSeek-v3.2` 性价比高，小量使用可优先考虑 [→ [DeepSeek 开放平台] ←](https://platform.deepseek.com/)
-  - `GLM-4.7` 基础套餐一天五毛钱基本上无限用，但有时会复读 [→ [GLM Coding Plan] ←](https://www.bigmodel.cn/glm-coding?ic=YR3PVFFFFE)
+  - `DeepSeek-v3.2` 性价比高，少量使用可优先选择 [→ [DeepSeek 开放平台] ←](https://platform.deepseek.com/)
+  - `GLM-4.6`/`GLM-4.7` 一天五毛钱基本不限量，两者风格不太一样 [→ [GLM Coding Plan] ←](https://www.bigmodel.cn/glm-coding?ic=YR3PVFFFFE)
 
 ## ⚖️ 许可证
-- 本项目采用 [CC BY-NC 4.0](LICENSE)（知识共享 署名-非商业 4.0）许可证
+- 本项目采用 [→ [CC BY-NC 4.0] ←](LICENSE) 许可证
 - **允许：**
   - ✅ 个人学习、研究和创作
   - ✅ 非商业用途的自由使用、分享、修改和衍生
